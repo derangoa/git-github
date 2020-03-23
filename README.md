@@ -1,4 +1,2 @@
 # git-github
-This is for a tutorial 
-
-hello, this is an example of an edit on a branch!
+Hello! My name is Anna DeRango. I'm a college student studying computer science and I'm interested in software development and front end web development. 
